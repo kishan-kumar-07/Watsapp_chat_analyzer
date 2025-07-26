@@ -1,0 +1,1 @@
+A simple and powerful WhatsApp chat analysis tool built with Python and Streamlit. This app takes your exported WhatsApp chat file (.txt) and provides detailed insights, visualizations, and statistics about your messaging behavior, activity trends, and much more!
